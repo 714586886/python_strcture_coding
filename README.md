@@ -1,1 +1,1 @@
-# python_strcture_coding
+# python 结构化编程技巧
